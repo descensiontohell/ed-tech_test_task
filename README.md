@@ -4,7 +4,7 @@
 
 1. Склонировать репозиторий:
 ```
-git clone https://github.com/descensiontohell/tetrika-school_test_task.git && cd tetrika-school_test_task
+git clone https://github.com/descensiontohell/ed-tech_test_task.git && cd ed-tech_test_task
 ```
 
 2. Создать виртуальное окружение и установить зависимости
