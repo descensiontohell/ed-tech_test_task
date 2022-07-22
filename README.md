@@ -1,0 +1,1 @@
+# tetrika-school_test_task
