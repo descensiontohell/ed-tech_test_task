@@ -1,4 +1,4 @@
-# tetrika-school_test_task
+# ed_tech_test_task
 
 Запуск (в Linux, может меняться в зависимости от платформы):
 
