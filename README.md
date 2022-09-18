@@ -1,10 +1,8 @@
-# ed_tech_test_task
-
 Запуск (в Linux, может меняться в зависимости от платформы):
 
 1. Склонировать репозиторий:
 ```
-git clone https://github.com/descensiontohell/ed-tech_test_task.git && cd ed-tech_test_task
+git clone https://github.com/descensiontohell/t.s-test-assignment.git && cd t.s-test-assignment
 ```
 
 2. Создать виртуальное окружение и установить зависимости
